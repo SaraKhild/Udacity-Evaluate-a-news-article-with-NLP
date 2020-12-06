@@ -1,0 +1,45 @@
+/*main section form {
+    border: 1px solid #545454;
+    border-radius: 3px;
+    padding: 40px;
+
+}
+
+form input {
+    padding: 5px 20px;
+    width: 100%;
+    line-height: 16px;
+    margin: 10px 0;
+}
+
+
+main #section1 { border: 1px black solid; padding: 40px;  margin: 50px 120px;}
+
+//section strong {font-weight: bolder; }
+*/
+
+section form {
+    border: 1px solid #545454;
+    border-radius: 3px;
+    padding: 50px;
+    display: flex;
+}
+
+
+section strong {font-weight: bolder;  color: #1A237E; font-size: 15px; font-weight: bolder;}
+
+input {
+    padding: 5px 20px;
+    width: 100%;
+    line-height: 16px;
+    margin: 10px 0;
+}
+
+form #bottom{
+    width: 150px;
+    margin-left: 20px;
+   color: #F4ECF7;
+   font-weight: bolder;
+   background: #8E44AD;
+   border-radius: 5px;
+}
